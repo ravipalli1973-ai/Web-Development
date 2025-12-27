@@ -1,0 +1,18 @@
+div {
+    height: 50px;
+border-style: hidden;
+    background-color: orange;
+    border-width: 10px;
+}
+#menu{
+    margin-left: 200px;
+}
+#orders{
+    margin-left: 200px;
+}
+#contactus{
+    margin-left: 200px;
+}
+#search{
+    margin-left: 200px;
+}
