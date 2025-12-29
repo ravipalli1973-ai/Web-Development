@@ -1,0 +1,39 @@
+div{
+    width: 1000px;
+    height: 1000px;
+    display: inline-block;
+    background-color: black;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+#id1{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    position: static;
+}
+#id2{
+    width: 150px;
+    height: 150px;
+    background-color:khaki;
+    position: relative;
+
+}
+#id3{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+}
+#id4{
+    width: 150px;
+    height: 150px;
+    background-color: lawngreen;
+    position: fixed;
+}
+#id5{
+    width: 150px;
+    height: 150px;
+    background-color: hotpink;
+    position: sticky;
+}

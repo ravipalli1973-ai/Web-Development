@@ -1,0 +1,74 @@
+#container{
+    width: 500px;
+    height: 500px;
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    align-content: space-between;
+
+}
+    
+#id1{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    
+    
+}
+#id2{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    
+    
+}
+#id3{
+    width: 150px;
+    height: 150px;
+    background-color: burlywood;
+    
+    
+}
+#id4{
+    width: 150px;
+    height: 150px;
+    background-color: hotpink;
+    
+    
+}
+#id5{
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+    
+    
+}
+#id6{
+    width: 150px;
+    height: 150px;
+    background-color: darkgoldenrod;
+    
+    
+}
+#id7{
+    width: 150px;
+    height: 150px;
+    background-color: powderblue;
+    
+    
+}
+#id8{
+    width: 150px;
+    height: 150px;
+    background-color: grey;
+    
+    
+}
+#id9{
+    width: 150px;
+    height: 150px;
+    background-color: mediumturquoise;
+    
+    
+}
